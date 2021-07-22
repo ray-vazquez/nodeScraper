@@ -11,7 +11,7 @@
   "license": "MIT",
   "dependencies": {
     "puppeteer": "^2.0.0",
-    "xlsx": "^0.15.3"
+    "xlsx": "^0.17.0"
   },
   "devDependencies": {
     "jest": "^24.9.0"
